@@ -1,0 +1,363 @@
+*{
+    margin :0 auto;
+    padding: 0;
+}
+    
+
+        div {
+        
+            
+position: absolute;
+
+left: 0px;
+top: -2px;
+
+
+background: #000000;
+
+        }
+        
+.menu ul li {
+
+text-align:center;
+font-family: 'Josefin Sans';
+font-style:normal;
+font-weight:100px;
+font-size: 18px;
+line-height:36px;
+font-display:inherit;
+list-style-type: none;
+}
+
+.menu ul li {
+    display: inline;
+    padding: 53px;
+    margin-top: 15px;
+    text-align: center;
+}
+.menu ul li a:hover {
+    background-color: rgb(113, 117, 241);
+    border-radius:1rem;
+    display: inline-block;
+    padding: 5px;
+    transition: all ease 0.5s;
+    
+}
+
+.menu ul li a {
+    text-decoration:none;
+    color:azure;
+}
+
+.img {
+position: absolute;
+width: 55px;
+height: 57px;
+background: url(./logo\ senacmenor.jpg);
+background-size:auto;
+margin-top: 63px;
+left: 10px;
+
+}
+
+.pesquisa{
+    position: absolute;
+    margin-top: 90px;
+    left: 215px;
+    background: transparent;
+    border: #000000;
+    
+}
+
+.pesquisa > input{
+  height:23px;
+  width: 500px;
+  text-align: center;
+}
+
+.sino> img{
+    position: absolute;
+    width: 55px;
+    height: 57px;
+    margin-top:90px;
+    left: 800px;
+    background-color: transparent;
+}
+
+   .contato> img{
+    position: absolute;
+    width: 55px;
+    height: 57px;
+    margin-top:90px;
+    left: 900px;
+    background-color: transparent;
+   }
+    .letras{
+        position: absolute;
+        font-size: 18px;
+        color:black;
+        background-color: transparent;
+        font-family:"Josefin Sans";
+        font-style: normal;
+    }
+
+    .letras {
+        margin-top: 110px;
+        left: 965px;
+        
+    }
+   .compras> img{
+    position: absolute;
+    width: 55px;
+    height: 57px;
+    margin-top:90px;
+    left: 1120px;
+    background-color: transparent;
+    
+
+}
+
+.Carrinho h6 {
+    position: absolute;
+    background-color: transparent;
+}
+
+    .Carrinho h6 {
+        position: absolute;
+        font-size: 18px;
+        font-family: 'Josefin Sans';
+        font-style: normal;
+}
+
+.Carrinho h6 {
+    margin-top: 110px;
+    left: 1185px;
+}
+
+.promocao{
+
+position: absolute;
+width:1350px;
+left: 0px;
+top: 227px;
+
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 33px;
+line-height: 33px;
+text-align: center;
+color: #0E1F41;
+background-color: aqua;
+background-position-x: center;
+}
+
+.promocao > {
+    
+background-repeat: repeat-x;
+height:45px;
+
+}
+
+
+.banner{
+
+position: absolute;
+top: 268Px;
+left: 0px;
+background: url(1500x540_1_24.png);
+background-position: center;
+}
+.banner > img {
+    width: 1350px;
+height:380px;
+}
+
+#s1{
+    margin-top: 186px;
+    text-align: center;
+    background-color: black;
+    height: 40px;
+   
+
+}
+
+.subt{
+    text-decoration: none;
+    color: white;
+    word-spacing: 100px;
+    font-family:'Josefin Sans';
+    font-size: 18px;
+    
+
+}
+
+.azul {
+/* Rectangle 22 */
+
+position: absolute;
+width: 1350px;
+height: 31px;
+left: 0px;
+top:650px;
+
+background: #00C2ED;
+filter: blur(4px);
+}
+
+.frete img {
+position: absolute;
+width: 1350px;
+height: 60px;
+top:675px;
+left: 0px;
+}
+
+
+
+.gel img {
+
+position: absolute;
+width: 541px;
+height: 435px;
+left: 80px;
+top: 745px;
+
+background: url(./produtos/geladeira.png);
+
+border: 2px solid #000000;
+box-sizing: border-box;
+
+}
+
+.som img {
+position: absolute;
+width: 212px;
+height: 211px;
+left: 700px;
+top: 745px;
+
+background:url(./produtos/som.png);
+border: 2px solid #000000;
+box-sizing: border-box;
+}
+
+.maquina img{
+
+position: absolute;
+width: 211px;
+height: 210px;
+left: 945px;
+top: 745px;
+
+background:url(./produtos/maquina.png);
+border: 2px solid #000000;
+box-sizing: border-box;
+
+}
+
+.tv img {
+    
+
+        position: absolute;
+        width: 211px;
+        height: 210px;
+        left: 945px;
+        top: 965px;
+        
+        background:url(./produtos/tv.png);
+        border: 2px solid #000000;
+        box-sizing: border-box;
+        
+}
+
+.micro img {
+    position: absolute;
+    width: 212px;
+    height: 211px;
+    left: 700px;
+    top: 965px;
+    
+    background:url(./produtos/som.png);
+    border: 2px solid #000000;
+    box-sizing: border-box;
+    }
+
+
+
+    .retang1{
+        background-color: black;
+        height: 55px;
+        margin-top:1000px;
+    }
+    
+    #contato{
+        background-color:aqua;
+        height: 345px;
+        line-height: 3.1;
+        margin: top 1115px;
+       
+        
+    
+    }
+    .nav{
+        margin-left: 65px;
+    
+    }
+    
+    .t1{
+        margin-left: 65px;
+    }
+    
+    .nav2{
+        text-align: center;
+        margin-top: -298px;
+    }
+    
+    .t2{
+        text-align: center;
+    }
+    
+    .nav3{
+        text-align: end;
+        margin-top: -250px;
+        padding: 0 25px 0 0 ;
+    
+    }
+    
+    .t3{
+        text-align: end;
+        padding: 0 115px 0 0;  
+    }
+    
+    .t4{
+    line-height: 0.1px;
+    text-align: end;
+    padding: 0 95px 0 0;
+    
+    }
+    
+    .t5{
+        text-align: end;
+        padding: 0 95px 0 0;
+    }
+    
+    #contato,a{
+        text-decoration: none;
+        color: black;
+        font-family: 'Josefin Sans';
+    }
+    
+    .t6{
+        padding: 0 135px 0 0;
+        text-align: end;
+    }
+    
+    .t7{
+        text-align: end;
+        padding: 0 125px 0 0;
+    }
+    
+    .t4, .t5, .t6, .t7{
+        margin-top: 8px;
+    }
