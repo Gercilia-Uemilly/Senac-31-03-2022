@@ -1,0 +1,362 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+div{
+position: absolute;
+left: 0px;
+top: -2px;
+width: 1350px;
+
+background-color: black;
+}
+
+.menu ul li {
+    
+    text-align:inherit;
+    font-family: 'Josefin Sans';
+    font-style:normal;
+    font-weight:100px;
+    font-size: 18px;
+    line-height: 35px;
+    font-display:inherit;
+    list-style-type: none;
+
+    }
+    
+    .menu ul li {
+        display: inline;
+        padding: 50px;
+        margin-top: 15px;
+        text-align: center;
+    }
+    .menu ul li a:hover {
+        background-color: rgb(113, 117, 241);
+        border-radius:1rem;
+        display: inline-block;
+        padding: 5px;
+        transition: all ease 0.5s;
+        
+    }
+    
+    .menu ul li a {
+        text-decoration:none;
+        color:rgb(255, 255, 255);
+    }
+
+.img{
+    position: absolute;
+    width: 87px;
+    height: 87px;
+    background-size:auto;
+    margin-top: 71px;
+    left: 10px;
+        
+}
+
+
+.pesquisa{
+    position: absolute;
+    margin-top: 90px;
+    left: 215px;
+    background: transparent;
+    border: #000000;
+    
+}
+
+.pesquisa > input{
+  height:23px;
+  width: 500px;
+  text-align: center;
+}
+
+.sino> img{
+    position: absolute;
+    width: 55px;
+    height: 57px;
+    margin-top:90px;
+    left: 900px;
+    background-color: transparent;
+}
+
+   .contato> img{
+    position: absolute;
+    width: 55px;
+    height: 57px;
+    margin-top:90px;
+    left: 1000px;
+    background-color: transparent;
+   }
+    .letras{
+        position: absolute;
+        font-size: 20px;
+        color:black;
+        background-color: transparent;
+        font-family:"Josefin Sans";
+        font-style: normal;
+    }
+
+    .letras {
+        margin-top: 110px;
+        left: 1065px;
+        
+    }
+   .compras> img{
+    position: absolute;
+    width: 55px;
+    height: 57px;
+    margin-top:90px;
+    left: 1170px;
+    background-color: transparent;
+    
+
+}
+
+.Carrinho  {
+    position: absolute;
+    background-color: transparent;
+}
+
+    .Carrinho  {
+        position: absolute;
+        font-size: 22px;
+        font-family: 'Josefin Sans';
+        font-style: normal;
+}
+
+.Carrinho  {
+    margin-top: 110px;
+    left: 1235px;
+}
+
+
+.frete img {
+    position: absolute;
+    width: 1350px;
+    height: 60px;
+    top:255px;
+    left: 0px;
+    }
+
+div#retangulo{
+    
+
+position:absolute;
+width: 1350px;
+height:50px;
+left: 0px;
+margin-top:600px;
+background: #191515;
+}
+
+#s1{
+    margin-top: 215px;
+    text-align: center;
+    background-color: black;
+    height: 35px;
+
+}
+
+.subt{
+    text-decoration: none;
+    color: white;
+    word-spacing: 155px;
+
+}
+
+
+.subt2{
+    text-decoration: none;
+    color: aqua;
+    border-style: solid;
+    border-width: 1px;
+    border-color: aqua;
+}
+
+.item{
+    height: 415px;
+    width: 350px;
+    padding: 15px;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 1px;
+    border-color: rgb(63, 61, 61);
+    margin: 15px;
+    margin-top: 95px;
+
+}
+
+.icones{
+    height: 59px;
+    width: 59px;
+    margin: 29px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+    padding: 5px;
+}
+.texto{
+    position: absolute;
+    margin-top: 100px;
+    left: 555px;
+    border-style: solid;
+    border-width: 1px;
+    border-color:  rgb(63, 61, 61);
+    border-radius: 10px;
+    padding: 5px 25px 55px 25px;
+
+}
+
+#descri{
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    font-family: 'Josefin Sans';
+    padding: 0 30px 0 0;
+}
+
+h3{
+    margin-top: 20px;
+    text-align:center;
+    border-style:dotted;
+    border-color: gold;
+}
+
+#des{
+    margin-top: 55px;
+    font-size: 31px;
+    text-align: center;
+    border-width: 1px;
+}
+
+
+#des2{
+    padding: 0 0 0 131px;
+    font-size: 25px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: red;
+
+}
+
+#des3{
+    text-align: center;
+    font-size: 25px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(0, 179, 0);
+    border-top: 15px;
+    margin-top: 5px;
+}
+
+#volt{
+    text-align: center;
+    font-size: 25px;
+    word-spacing: 95px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    border-top: 5px;
+}
+
+#volt1{
+    text-align: center;
+    font-family:'Josefin Sans';
+    font-size: 15px;
+}
+.but{
+    text-decoration: none;
+    background-color: transparent;
+    border-radius: 2px;
+    text-align: center;
+}
+
+#but2{
+    text-decoration: none;
+    font-size: 21px;
+    padding:3px 28px 0 28px;
+    background-color: transparent;
+    border-color: blue;
+    border-radius: 5px;
+    margin-top: 15px;
+    position: absolute;
+
+}
+
+#but3{
+    margin-left: 130px;
+}
+
+.retang1{
+    background-color: black;
+    height: 55px;
+}
+
+#contato{
+    background-color:aqua;
+    height: 345px;
+    line-height: 3.1;
+    
+
+}
+.nav{
+    margin-left: 65px;
+
+}
+
+.t1{
+    margin-left: 65px;
+}
+
+.nav2{
+    text-align: center;
+    margin-top: -298px;
+}
+
+.t2{
+    text-align: center;
+}
+
+.nav3{
+    text-align: end;
+    margin-top: -250px;
+    padding: 0 25px 0 0 ;
+
+}
+
+.t3{
+    text-align: end;
+    padding: 0 115px 0 0;  
+}
+
+.t4{
+line-height: 0.1px;
+text-align: end;
+padding: 0 95px 0 0;
+
+}
+
+.t5{
+    text-align: end;
+    padding: 0 95px 0 0;
+}
+
+#contato,a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Josefin Sans';
+}
+
+.t6{
+    padding: 0 135px 0 0;
+    text-align: end;
+}
+
+.t7{
+    text-align: end;
+    padding: 0 125px 0 0;
+}
+
+.t4, .t5, .t6, .t7{
+    margin-top: 8px;
+}
